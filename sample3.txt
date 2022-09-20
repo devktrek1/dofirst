@@ -1,1 +1,2 @@
 This is third file
+This is a change by someone else on feature1 branch file
