@@ -2,4 +2,5 @@ This is third file
 This is a change by someone else on feature1 branch file fixed
 This is my change on feature1
 It is a new change
-
+This is new third file being added as part of feature2
+#Fixed and kept both versions of feature1 and feature2 commit
