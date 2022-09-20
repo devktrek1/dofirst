@@ -1,1 +1,2 @@
 This is the second file
+Changing this second file by adding this new line as part of feature 1
